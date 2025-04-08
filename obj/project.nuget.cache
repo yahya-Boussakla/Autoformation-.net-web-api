@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPf/Urplz3aQKDZK6hM5DuB0se+j1FVovNl/RAQK2qOPmtKFfx92rDSpxl/6qKd1tYKeui7XY3KbJntZC52kNw==",
+  "success": true,
+  "projectFilePath": "/home/yahya/Api.net/SimpleApi/SimpleApi.csproj",
+  "expectedPackageFiles": [
+    "/home/yahya/.nuget/packages/microsoft.aspnetcore.openapi/8.0.4/microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "/home/yahya/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/yahya/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/yahya/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/yahya/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/yahya/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/yahya/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
